@@ -1,0 +1,10 @@
+C:\Development\Udemy\CorePractice\bin\Debug\netcoreapp2.0\CorePractice.deps.json
+C:\Development\Udemy\CorePractice\bin\Debug\netcoreapp2.0\CorePractice.runtimeconfig.json
+C:\Development\Udemy\CorePractice\bin\Debug\netcoreapp2.0\CorePractice.runtimeconfig.dev.json
+C:\Development\Udemy\CorePractice\bin\Debug\netcoreapp2.0\CorePractice.dll
+C:\Development\Udemy\CorePractice\bin\Debug\netcoreapp2.0\CorePractice.pdb
+C:\Development\Udemy\CorePractice\obj\Debug\netcoreapp2.0\CorePractice.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\CorePractice\obj\Debug\netcoreapp2.0\CorePractice.AssemblyInfoInputs.cache
+C:\Development\Udemy\CorePractice\obj\Debug\netcoreapp2.0\CorePractice.AssemblyInfo.cs
+C:\Development\Udemy\CorePractice\obj\Debug\netcoreapp2.0\CorePractice.dll
+C:\Development\Udemy\CorePractice\obj\Debug\netcoreapp2.0\CorePractice.pdb
